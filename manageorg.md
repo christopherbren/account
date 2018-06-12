@@ -35,7 +35,7 @@ Complete the following steps to rename your org. Note any changes you make apply
 
 ### Deleting an org
 
-To delete an org, contact [Support](/docs/get-support/howtogetsupport.html). When an org is deleted, all the spaces and resources within the org are also deleted. Be sure to note that delete operations cannot be reversed. 
+Orgs cannot be deleted.  Orgs can be renamed in order to be reused, but they cannot be deleted at this time.
 
 ### Deleting a space
 
