@@ -40,6 +40,16 @@ If you are able to log in to an {{site.data.keyword.Bluemix_notm}} account, go t
 
 If you can't log into an {{site.data.keyword.Bluemix}} account, [create an account request](https://watson.service-now.com/x_ibmwc_open_case_app.do#!/create){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon").
 
+## What if I have issues activating my account?
+{: #activation-error}
+{: faq}
+
+If you are unable to activate an {{site.data.keyword.Bluemix_notm}} account, please try the following:
+* If you are still on the registration completion page, click on the Resend link for the Can't find the email? question at the bottom of the page.
+
+* If you are no longer on the registration completion page, please sign into your {{site.data.keyword.Bluemix_notm}} account again.  You will be prompted to complete your registration, and can click on the Resend link from this page.
+
+If you are unable to activate your {{site.data.keyword.Bluemix}} account after following these steps, please [create an account request](https://watson.service-now.com/x_ibmwc_open_case_app.do#!/create){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon").
 
 ## What is Cloud Foundry?
 {: #cloud-foundry}
