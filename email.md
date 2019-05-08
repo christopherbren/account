@@ -18,7 +18,7 @@ subcollection: account
 {:new_window: target="_blank"}
 
 
-# Setting email preferences
+# Setting notification email preferences
 {: #email-prefs}
 
 Depending on your {{site.data.keyword.Bluemix}} account type, you can choose whether to receive email notifications about {{site.data.keyword.Bluemix}} platform unplanned events and planned events, or infrastructure email notifications about unplanned events, maintenance, and announcements. You can also choose to set notification subscriptions for classic infrastructure events.
